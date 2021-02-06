@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: 'BP-User'
+
+  profiles:
+    active: 'prod'
+
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: 'jdbc:postgresql://database/database_name'
+    username: 'user'
+    password: 'password'

@@ -1,0 +1,10 @@
+# Directories
+.idea/
+target/
+
+# Files
+docker/data
+docker/docker-compose.local.yml
+docker/.env
+src/main/resources/application.yml
+BP-User.iml
